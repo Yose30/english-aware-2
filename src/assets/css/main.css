@@ -1,0 +1,279 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,900|Montserrat:300,300i,400,400i,500,500i,700,700i|Open+Sans:300,400,400i,700&display=swap');
+
+:root{
+    /**FUENTS*/
+    --fuenteLato: 'Lato', sans-serif;
+    --fuenteMontserrat:'Montserrat', sans-serif;
+    --fuenteOpensans:'Open Sans', sans-serif;
+    /* COLORES */
+    --botonMorado:#7d4f9d;
+    --amarilloF:#f2991f;
+    --grisTexto:#17202A;
+    --grisobscuro:#c1c1c1;
+    --grisClaro:#f2f2f2;
+    --naranja:#ef4c44;
+    --blanco:#FFFFFF;
+    --verde:#84b34a;
+    --botonMagenta:#e02e70;
+}
+
+/* INSTRUCCIONES DEL EJERCICIO */
+.instrucciones {
+    font-family: var(--fuenteLato);
+    font-size: 1.2rem;
+    font-weight: 700;
+    color:var(--grisTexto);
+    text-align: justify;
+}
+.numero-vineta{
+    font-family: var(--fuenteLato);
+    font-size: 1.2rem;
+    font-weight: 900;
+    color:var(--naranja);
+}
+
+/* TEXTO */
+p{
+    font-size: 1.2rem;
+    line-height: 2rem;
+    text-align: justify;
+}
+
+#lbl21228, #lbl12312, #lbl12112{ color: var(--grisobscuro); }
+
+#txt41465, #txt21529{
+    width: 100%;
+}
+
+textarea {
+    font-family: var(--fuenteOpensans);
+    padding: 0.3rem;
+    font-size: 1.2rem;
+    text-align: justify;
+    line-height: 1.5;
+    color:var(--grisTexto);
+    margin:0;
+    width: 100%;
+    height: 140px;
+    box-sizing: border-box;
+    border: 4px solid var(--grisobscuro);
+    border-radius: 10px;
+    resize: none;
+  }
+
+/* INPUT */
+/* ESTILO DE INPUTS */
+input{
+    font-family: var(--fuenteLato);
+    font-size: 1.2rem;
+    font-weight: bold;
+    color:var(--grisTexto);
+    text-align: center;
+    margin: 2px;
+    border: 2px solid var(--grisobscuro);
+    border-radius: 15px;
+    
+}
+input:hover{
+    background-color: var(--grisClaro);
+}
+/* VALIDACIONES DE INPUT */
+input:invalid {
+    border: 2px solid red;
+}
+input:valid {
+    color: #00BC00;
+}
+
+/* SELECT */
+#sel32148{
+    width: 150px;
+}
+
+/* CHECKBOX */
+.radio-tf{
+    align-content: center;
+    border:15px solid var(--grisClaro);   
+}
+
+/* DROP */
+.drop {
+    margin-top:2px;
+    border: 3px solid var(--grisobscuro);
+    border-radius: 10px;
+    display: flex;
+}
+
+#drop21228{
+    width: 200px;
+    height: 350px;
+    flex-direction: column;
+}
+
+#drop12112{
+    width: 150px;
+    height: 35px;
+    text-align: center;
+    display: inline-block;
+}
+
+#drop12212{
+    width: 350px;
+    height: 35px;
+    justify-content: center;
+}
+
+#drop12312{
+    width: 100px;
+    height: 350px;
+    flex-direction: column;
+}
+
+/* NAVBAR */
+.navbar {
+    background-color: var(--naranja);
+}
+
+.logo{
+    border: none;
+    width: 100px;
+}
+
+/* BUTTONS */
+.home{
+    font-family: var(--fuenteOpensans);
+    background-color: var(--botonMorado);
+    width: 200px;
+    color:var(--blanco);
+    font-size: 1.2rem;
+    font-weight: 900;
+    border-radius:30px;
+    padding-left: 20px;
+    padding-right: 20px; 
+}
+
+.home:hover{
+    background-color: var(--amarilloF);
+    color:var(--blanco);
+}
+
+.home:active{
+    background-color: var(--amarilloF);
+    color:var(--blanco);
+    
+}
+
+.btn-finish{
+    margin-top: 1rem;
+  font-family: var(--fuenteOpensans);
+  background-color: var(--amarilloF);
+  width: 200px;
+  color:var(--blanco);
+  font-size: 1.2rem;
+  font-weight: 900;
+  border-radius:30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 1rem;
+  margin-right:15%; 
+}
+.btn-finish:hover{
+  font-family: var(--fuenteOpensans);
+  background-color: var(--verde);
+  color: var(--blanco);  
+}
+.btn-finish:active{
+  font-family: var(--fuenteOpensans);
+  background-color: var(--verde); 
+  color: var(--blanco); 
+}
+
+/** Descargar*/
+.descarga-pdf{
+    font-family: var(--fuenteOpensans);
+    background-color: var(--botonMorado);
+    color:var(--blanco);
+    font-size: 1.2rem;
+    font-weight: 900;
+    border-radius:30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+.descarga-pdf:hover{
+    background-color: var(--botonMagenta);
+    color:var(--blanco);
+}
+.descarga-pdf:active{
+    background-color: var(--botonMagenta);
+    color:var(--blanco);
+}
+.descarga-pdf:visited{
+    border: none;
+}
+
+/* PIZARRA */
+#pizarra {
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    top: 140px;
+    /* left: 150px; */
+}
+/** WiteBoard Interactive*/
+.contenedor{
+    /* margin-left: 25%; */
+    /* align-content: center; */
+    /* width:60%; */
+    padding-top:0.5rem;
+    padding-bottom:0.5rem;
+    background-color: var(--botonMorado);
+    border: 3px solid var(--botonMorado);
+    border-radius: 20px;
+}
+.btn-pizzaron{
+    width: 3rem;
+    height: 3rem;
+    align-content: center;
+    background: transparent;;
+    border:3px solid var(--blanco);
+}
+.btn-pizzaron:hover{
+    background: transparent;;
+    border:3px solid var(--grisobscuro);
+}
+.btn-pizzaron:active{
+    background: transparent;
+    color: var(--grisClaro);
+    border:3px solid var(--grisobscuro);
+}
+.elementos-pizzarron{
+    font-family: var(--fuenteOpensans);
+    font-size: 1.6rem;
+}
+.colores{
+    background: transparent;
+    border:3px solid var(--blanco);
+}
+.grosor-linea{
+    width: 68px;
+}
+
+/* CARD */
+#card11110, #card21128, #card32148, #card41164{
+    background-color: #c4f7ff;
+}
+
+#div12112{
+    display: inline-block;
+}
+
+
+/* IMAGES */
+#img12312, #img21228{
+    width: 150px;
+}
+
+#img21529{
+    width: 300px;
+}

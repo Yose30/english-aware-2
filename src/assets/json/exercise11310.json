@@ -1,0 +1,38 @@
+{
+    "0": {
+        "sentence": "Laura likes her multicultural group.",
+        "value": "true",
+        "selected": "",
+        "state": null
+    },
+    "1": {
+        "sentence": "Pedro is tall and nice.",
+        "value": "true",
+        "selected": "",
+        "state": null
+    },
+    "2": {
+        "sentence": "Zinnia has fair skin and blue eyes.",
+        "value": "false",
+        "selected": "",
+        "state": null
+    },
+    "3": {
+        "sentence": "Laura thinks Hans is funny.",
+        "value": "true",
+        "selected": "",
+        "state": null
+    },
+    "4": {
+        "sentence": "The math teacher is friendly and patient.",
+        "value": "true",
+        "selected": "",
+        "state": null
+    },
+    "5": {
+        "sentence": "Laura knows Charlie’s new English teacher.",
+        "value": "false",
+        "selected": "",
+        "state": null
+    }
+}

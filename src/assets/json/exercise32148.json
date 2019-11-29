@@ -1,0 +1,37 @@
+{
+    "0": {
+        "part1": "You",
+        "part2": "participate in the contest if you want.",
+        "answer": "can",
+        "selected": "",
+        "state": null
+    },
+    "1": {
+        "part1": "Humans",
+        "part2": "live on the moon in the future.",
+        "answer": "will be able to",
+        "selected": "",
+        "state": null
+    },
+    "2": {
+        "part1": "Joseph",
+        "part2": "remember where he was.",
+        "answer": "could",
+        "selected": "",
+        "state": null
+    },
+    "3": {
+        "part1": "My grandparents",
+        "part2": "speak French.",
+        "answer": "could",
+        "selected": "",
+        "state": null
+    },
+    "4": {
+        "part1": "Sam",
+        "part2": "come this year.",
+        "answer": "will be able to",
+        "selected": "",
+        "state": null
+    }
+}

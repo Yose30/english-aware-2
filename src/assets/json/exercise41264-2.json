@@ -1,0 +1,27 @@
+{
+    "0": {
+        "part1": "You need to wear one of this to swim.",
+        "part2": "",
+        "answer": "(B|b)athing suit"
+    },
+    "1": {
+        "part1": "You wear these special eye glasses to protect your eyes from the sun.",
+        "part2": "",
+        "answer": "(S|s)un glasses"
+    },
+    "2": {
+        "part1": "You make this with sand and water.",
+        "part2": "",
+        "answer": "(S|s)and castle"
+    },
+    "3": {
+        "part1": "You sit on this comfortable chair.",
+        "part2": "",
+        "answer": "(B|b)each chair"
+    },
+    "4": {
+        "part1": "A",
+        "part2": "can help you when you don’t know how to swim.",
+        "answer": "(K|k)ick board"
+    }
+}

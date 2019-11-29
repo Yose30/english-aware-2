@@ -1,0 +1,38 @@
+{
+    "0": {
+        "uno": "pretty",
+        "dos": "functional",
+        "tres": "comfortable",
+        "cuatro": "light"
+    },
+    "1": {
+        "uno": "long",
+        "dos": "ultra-micro",
+        "tres": "portable"
+    },
+    "2": {
+        "uno": "round",
+        "dos": "ergonomic",
+        "tres": "slim"
+    },
+    "3": {
+        "uno": "antique",
+        "dos": "trendy",
+        "tres": "modern"
+    },
+    "4": {
+        "uno": "red",
+        "dos": "orange",
+        "tres": "yellow",
+        "cuatro": "green",
+        "cinco": "blue",
+        "seis": "brown",
+        "siete": "black"
+    },
+    "5": {
+        "uno": "sliver",
+        "dos": "metal",
+        "tres": "cotton",
+        "cuatro": "plastic"
+    }
+}

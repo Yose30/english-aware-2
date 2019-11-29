@@ -1,0 +1,28 @@
+{
+    "0": {
+        "uno": "siblings",
+        "dos": "parents",
+        "tres": "grandparents",
+        "cuatro": "family",
+        "cinco": "kid"
+    },
+    "1": {
+        "uno": "preschooler",
+        "dos": "playground",
+        "tres": "primary school",
+        "cuatro": "junior high",
+        "cinco": "high school",
+        "seis": "university"
+    },
+    "2": {
+        "uno": "memories",
+        "dos": "adolescence",
+        "tres": "photography",
+        "cuatro": "crush",
+        "cinco": "prom",
+        "seis": "date",
+        "siete": "youth",
+        "ocho": "remember",
+        "nueve": "nostalgia"
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "0": {
+        "words": {
+            "1": {
+                "word": "nice",
+                "state": false
+            },
+            "2": {
+                "word": "gold",
+                "state": false
+            },
+            "3": {
+                "word": "long",
+                "state": false
+            },
+            "4": {
+                "word": "antique",
+                "state": false
+            },
+            "5": {
+                "word": "earrings",
+                "state": false
+            }
+        },
+        "order": {
+            "1": {
+                "word": "nice",
+                "state": false
+            },
+            "2": {
+                "word": "long",
+                "state": false
+            },
+            "3": {
+                "word": "antique",
+                "state": false
+            },
+            "4": {
+                "word": "gold",
+                "state": false
+            },
+            "5": {
+                "word": "earrings",
+                "state": false
+            }
+        }
+    },
+    "1": {
+        "words": {
+            "1": {
+                "word": "metal",
+                "state": false
+            },
+            "2": {
+                "word": "trendy",
+                "state": false
+            },
+            "3": {
+                "word": "slim",
+                "state": false
+            },
+            "4": {
+                "word": "smartphone",
+                "state": false
+            }
+        },
+        "order": {
+            "1": {
+                "word": "trendy",
+                "state": false
+            },
+            "2": {
+                "word": "slim",
+                "state": false
+            },
+            "3": {
+                "word": "metal",
+                "state": false
+            },
+            "4": {
+                "word": "smartphone",
+                "state": false
+            }
+        }
+    },
+    "2": {
+        "words": {
+            "1": {
+                "word": "cotton",
+                "state": false
+            },
+            "2": {
+                "word": "comfortable",
+                "state": false
+            },
+            "3": {
+                "word": "light",
+                "state": false
+            },
+            "4": {
+                "word": "tennis shoes",
+                "state": false
+            }
+        },
+        "order": {
+            "1": {
+                "word": "comfortable",
+                "state": false
+            },
+            "2": {
+                "word": "light",
+                "state": false
+            },
+            "3": {
+                "word": "cotton",
+                "state": false
+            },
+            "4": {
+                "word": "tennis shoes",
+                "state": false
+            }
+        }
+    },
+    "3": {
+        "words": {
+            "1": {
+                "word": "plastic",
+                "state": false
+            },
+            "2": {
+                "word": "white",
+                "state": false
+            },
+            "3": {
+                "word": "modern",
+                "state": false
+            },
+            "4": {
+                "word": "charger",
+                "state": false
+            }
+        },
+        "order": {
+            "1": {
+                "word": "modern",
+                "state": false
+            },
+            "2": {
+                "word": "white",
+                "state": false
+            },
+            "3": {
+                "word": "plastic",
+                "state": false
+            },
+            "4": {
+                "word": "charger",
+                "state": false
+            }
+        }
+    },
+    "4": {
+        "words": {
+            "1": {
+                "word": "phosphorescent",
+                "state": false
+            },
+            "2": {
+                "word": "ergonomic",
+                "state": false
+            },
+            "3": {
+                "word": "helmet",
+                "state": false
+            }
+        },
+        "order": {
+            "1": {
+                "word": "ergonomic",
+                "state": false
+            },
+            "2": {
+                "word": "phosphorescent",
+                "state": false
+            },
+            "3": {
+                "word": "helmet",
+                "state": false
+            }
+        }
+    }
+}

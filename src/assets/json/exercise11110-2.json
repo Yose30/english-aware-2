@@ -1,0 +1,26 @@
+{
+    "0": {
+        "sentence": "<li>Sonia is <input type='text' pattern='angry'>. She lost her mobile phone.</li>",
+        "image": ""
+    },
+    "1": {
+        "sentence": "<li>Joe's favorite food is <input type='text' pattern='Chinese'>.</li>",
+        "image": ""
+    },
+    "2": {
+        "sentence": "<li>Wow! Your son is really  <input type='text' pattern='intelligent'>.</li>",
+        "image": ""
+    },
+    "3": {
+        "sentence": "<li>I think I will pass the test. It wasn’t too  <input type='text' pattern='difficult'>.</li>",
+        "image": ""
+    },
+    "4": {
+        "sentence": "<li>Guillermo Ochoa is a  <input type='text' pattern='Mexican'> soccer player.</li>",
+        "image": ""
+    },
+    "5": {
+        "sentence": "<li>I love <input type='text' pattern='black'> cats.</li>",
+        "image": ""
+    }
+}

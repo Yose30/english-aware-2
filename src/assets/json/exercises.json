@@ -1,0 +1,62 @@
+{
+    "0": {
+        "route": "exercise11110",
+        "title": "Exercise 1"
+    },
+    "1": {
+        "route": "exercise11310",
+        "title": "Exercise 2"
+    },
+    "2": {
+        "route": "",
+        "title": "Exercise"
+    },
+    "3": {
+        "route": "exercise12112",
+        "title": "Exercise 4"
+    },
+    "4": {
+        "route": "exercise12212",
+        "title": "Exercise 5"
+    },
+    "5": {
+        "route": "exercise12312",
+        "title": "Exercise 6"
+    },
+    "6": {
+        "route": "exercise21128",
+        "title": "Exercise 7"
+    },
+    "7": {
+        "route": "exercise21228",
+        "title": "Exercise 8"
+    },
+    "8": {
+        "route": "exercise21529",
+        "title": "Exercise 9"
+    },
+    "9": {
+        "route": "exercise32148",
+        "title": "Exercise 10"
+    },
+    "10": {
+        "route": "exercise32248",
+        "title": "Exercise 11"
+    },
+    "11": {
+        "route": "exercise32348",
+        "title": "Exercise 12"
+    },
+    "12": {
+        "route": "exercise41164",
+        "title": "Exercise 13"
+    },
+    "13": {
+        "route": "exercise41264",
+        "title": "Exercise 14"
+    },
+    "14": {
+        "route": "exercise41465",
+        "title": "Exercise 15"
+    }
+}

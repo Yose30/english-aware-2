@@ -1,0 +1,22 @@
+{
+    "0": {
+        "image": "memory-card",
+        "answer": "32 GB, ultra-micro memory card",
+        "selected": ""
+    },
+    "1": {
+        "image": "hard-drive",
+        "answer": "Portable, external, hard drive",
+        "selected": ""
+    },
+    "2": {
+        "image": "mouse",
+        "answer": "Personalized weight, black mouse",
+        "selected": ""
+    },
+    "3": {
+        "image": "laptop",
+        "answer": "Super slim,14.8 full HD display, laptop",
+        "selected": ""
+    }
+}

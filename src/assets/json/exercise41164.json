@@ -1,0 +1,27 @@
+{
+    "0": {
+        "part1": "I",
+        "part2": "to the hospital tomorrow.",
+        "answer": "am going to go"
+    },
+    "1": {
+        "part1": "Luis",
+        "part2": "to Australia next month.",
+        "answer": "is not going to travel"
+    },
+    "2": {
+        "part1": "The festival",
+        "part2": "tomorrow.",
+        "answer": "is going to be"
+    },
+    "3": {
+        "part1": "We",
+        "part2": "everything for the party.",
+        "answer": "are going to buy"
+    },
+    "4": {
+        "part1": "We",
+        "part2": "our second anniversary.",
+        "answer": "are going to celebrate"
+    }
+}

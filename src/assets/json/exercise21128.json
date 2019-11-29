@@ -1,0 +1,27 @@
+{
+    "0": {
+        "part1": "Alice, Tom and Janice",
+        "part2": "very glad to see Margot last night. (was / were)",
+        "answer": "were"
+    },
+    "1": {
+        "part1": "My father",
+        "part2": "really busy last week. (was / were)",
+        "answer": "was"
+    },
+    "2": {
+        "part1": "Lara",
+        "part2": "sleepy today. (was / were)",
+        "answer": "was"
+    },
+    "3": {
+        "part1": "I",
+        "part2": "really sad to know I didn’t pass the exam. (was / were)",
+        "answer": "was"
+    },
+    "4": {
+        "part1": "The books I read last semester",
+        "part2": "really good! You should read them too. (was / were)",
+        "answer": "were"
+    }
+}
